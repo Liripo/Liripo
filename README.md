@@ -7,7 +7,7 @@
 	<br>
 	<a href="<div align="center">
 	<br>
-	<a href="https://github.com/Liripo/Liripo/blob/main/header.svg">
+	<a href="https://github.com/Liripo/Liripo/blame/main/header.svg">
 		<img src="header.svg" width="800" height="400">
 	</a>
 	<br>
