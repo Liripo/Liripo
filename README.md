@@ -5,9 +5,9 @@
 </a>
 
 
-[![R](https://img.shields.io/badge/-programming-black?style=flat-square&logo=r&link=https://github.com/swsoyee?tab=repositories&q=&type=source&language=r)](https://github.com/liripo?tab=repositories&q=&type=source&language=r)
-[![python](https://img.shields.io/badge/-programming-black?style=flat-square&logo=r&link=https://github.com/swsoyee?tab=repositories&q=&type=source&language=python)](https://github.com/liripo?tab=repositories&q=&type=source&language=python)
-[![Rust](https://img.shields.io/badge/-programming-black?style=flat-square&logo=r&link=https://github.com/swsoyee?tab=repositories&q=&type=source&language=rust)](https://github.com/liripo?tab=repositories&q=&type=source&language=rust)
+[![R](https://img.shields.io/badge/-programming-black?style=flat-square&logo=r&link=https://github.com/Liripo?tab=repositories&q=&type=source&language=r)](https://github.com/liripo?tab=repositories&q=&type=source&language=r)
+[![python](https://img.shields.io/badge/-programming-black?style=flat-square&logo=python&link=https://github.com/Liripo?tab=repositories&q=&type=source&language=python)](https://github.com/liripo?tab=repositories&q=&type=source&language=python)
+[![Rust](https://img.shields.io/badge/-programming-black?style=flat-square&logo=Rust&link=https://github.com/Liripo?tab=repositories&q=&type=source&language=Rust)](https://github.com/liripo?tab=repositories&q=&type=source&language=Rust)
 
 <div align="center">
 	<br>
