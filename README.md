@@ -1,5 +1,5 @@
 # Github
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Liripo&show_icons=true&theme=radical)
+![github stats](https://github-readme-stats.vercel.app/api?username=Liripo&show_icons=true&theme=radical)
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Liripo&hide=javascript,html,css&theme=vue-dark" height="195px" title="Top Langs" alt="Top Langs"/>
 </a>
